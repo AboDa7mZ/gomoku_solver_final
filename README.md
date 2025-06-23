@@ -77,9 +77,6 @@ Switch between game modes
 bash
 Copy
 Edit
-# Clone the repository
-git clone https://github.com/your-username/gomoku-ai.git
-cd gomoku-ai
 
 # Run the game
 python main.py
